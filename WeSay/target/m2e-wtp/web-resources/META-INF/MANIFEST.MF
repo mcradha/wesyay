@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: WeSayEndPoint
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SBose
+Implementation-Vendor-Id: com.concretepage
+Build-Jdk: 1.8.0_40-ea
+Implementation-URL: http://projects.spring.io/spring-boot/WeSay/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
